@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585157905 source:c:\users\mihai r\desktop\fmi\programare orientata pe obiecte\individ\individ\individ.cpp
+	"individ.h"
+	<iostream>
+
+1585160136 c:\users\mihai r\desktop\fmi\programare orientata pe obiecte\individ\individ\individ.h
+
+1585159035 source:c:\users\mihai r\desktop\fmi\programare orientata pe obiecte\individ\individ\tabel.cpp
+	"individ.h"
+
